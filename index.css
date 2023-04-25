@@ -34,11 +34,15 @@ img{
 }
 
 h1{
-    color: yellow
+    color: yellow;
+    marigin-top: -100px;
+    position: absolute;
 }
 
 h2 {
     color: yellow;
+    position: absolute;
+    margin-top: -55px;
 }
 
 p {
